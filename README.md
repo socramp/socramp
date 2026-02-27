@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Marcos, tenho 16 anos e moro em SP.</p>
+<p align="left">Marcos Paulo | 16 anos | São Paulo SP</p>
 
 ###
 
