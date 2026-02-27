@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🕵️ Aprender coisas novas<br>♟️Gosto de problemas de lógica<br>🗣️ Gosto de conversar<br>🎮 Jogar jogos digitais e físicos<br>🚶‍♂️ Passear<br>🤝 Conhecer pessoas</p>
+<p align="left">🕵️ Gosto de aprender coisas novas<br>♟️Gosto de problemas de lógica<br>🗣️ Gosto de conversar<br>🎮 Jogar jogos digitais e físicos<br>🚶‍♂️ Gosto de passear para diferentes lugares<br>🤝 Conhecer pessoas</p>
 
 ###
 
