@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Um pouco de sobre mim</h2>
+<h2 align="left">Um pouco sobre mim</h2>
 
 ###
 
