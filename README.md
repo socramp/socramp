@@ -1,16 +1,16 @@
-<h1 align="left">Olá, seja bem vindo ao meu perfil! 😁👍</h1>
+<h1 align="center">Olá, seja bem vindo ao meu perfil!! 😁👍</h1>
 
 ###
 
-<p align="left">Meu nome e Marcos, tenho 16 anos e moro em SP.</p>
+<p align="left">Marcos Paulo | 16 anos | São Paulo SP</p>
 
 ###
 
-<h2 align="left">Um pouco de mim</h2>
+<h2 align="left">Um pouco sobre mim</h2>
 
 ###
 
-<p align="left">♟️Gosto de problemas de lógica<br>🗣️ Gosto de conversar com amigos<br>🎮 Jogar jogos digitais e físicos<br>🚶‍♂️ Passear<br>🤝 Conhecer pessoas<br>🕵️ Aprender coisas novas</p>
+<p align="left">🕵️ Gosto de aprender coisas novas<br>♟️Gosto de problemas de lógica<br>🥈 Medalha de prata na Olimpíada Brasileira de Matemática das Escolas Públicas<br>🥈 Medalha de prata na Olimpíada do Tesouro Direto de Educação Financeira<br>📄 Certificado de Operador de Suporte Técnico em T.I. pelo SENAI<br>🎮 Gosto de jogar jogos digitais e físicos<br>🤝 Gosto de conhecer pessoas</p>
 
 ###
 
