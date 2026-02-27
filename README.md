@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🕵️ Gosto de aprender coisas novas<br>♟️Gosto de problemas de lógica<br>🗣️ Gosto de conversar<br>🎮 Gosto de jogar jogos digitais e físicos<br>🚶‍♂️ Gosto de passear para diferentes lugares<br>🤝 Gosto de conhecer pessoas</p>
+<p align="left">🕵️ Gosto de aprender coisas novas<br>♟️Gosto de problemas de lógica<br>🥈 Medalha de prata na Olimpíada Brasileira de Matemática das Escolas Públicas<br>🥈 Medalha de prata na Olimpíada do Tesouro Direto de Educação Financeira<br>📄 Certificado de Operador de Suporte Técnico em T.I. pelo SENAI🎮 Gosto de jogar jogos digitais e físicos<br>🤝 Gosto de conhecer pessoas</p>
 
 ###
 
